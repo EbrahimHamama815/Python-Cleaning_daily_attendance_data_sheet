@@ -7,10 +7,10 @@ At its current state the sheet is hard to deal with, here is an example:
 <img width="1920" height="707" alt="image" src="https://github.com/user-attachments/assets/d93280e6-fd79-4529-9b65-65a729b94a51" />
 <br>
 
-So we utilize powerful python PANDAS features to transform this sheet into a usable tabular format for analysis like below:
+So we utilize powerful python PANDAS features to transform this sheet into a usable tabular format for analysis and to extract main KPIs like check in/out and total working hours...etc:
 
 <br>
-<img width="1920" height="707" alt="image" src="https://github.com/user-attachments/assets/1f71cfe5-687d-4e64-8554-110bcac799c0" />
+<img width="1920" height="707" alt="image" src="https://github.com/user-attachments/assets/4a48d86a-cd8f-4900-9df2-e3f911ce0182" />
 <br>
 
 You can find a detailed step by step transfomation code in the script folder
